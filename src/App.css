@@ -1,0 +1,97 @@
+.comp1 {
+  display: flex;
+}
+.funcomp {
+  width: 50%;
+  height: 80%;
+}
+.comp1 {
+  height: 100%;
+}
+.functionprops {
+  display: flex;
+}
+.functionpropsclass {
+  width: 50%;
+  background-color: chartreuse;
+}
+
+.functionpropsclassfun {
+  width: 50%;
+  background-color: rgb(0, 204, 255);
+}
+.question2 {
+  display: flex;
+}
+.Q2ques {
+  background-color: rgb(225, 250, 3);
+  width: 50%;
+}
+.Q2sol {
+  background-color: fuchsia;
+  width: 50%;
+}
+.ContextComponent {
+  display: flex;
+}
+.Q31 {
+  width: 50%;
+  background-color: rgb(231, 114, 155);
+}
+.Q3l {
+  width: 50%;
+  background-color: teal;
+}
+.q5 {
+  display: flex;
+}
+.q5q {
+  width: 50%;
+  background-color: khaki;
+}
+.q5a {
+  background-color: rgb(216, 170, 100);
+  width: 50%;
+}
+
+.mainpage {
+  width: 100%;
+}
+.q4 {
+  background-color: slateblue;
+  padding-left: 1rem;
+  font: bolder;
+}
+.parent {
+  display: flex;
+}
+.q6sol {
+  padding-right: 0%;
+
+  background-color: lemonchiffon;
+  width: 100%;
+  margin-left: 25rem;
+  padding-left: 2rem;
+}
+
+.q6 {
+  background-color: darkviolet;
+  width: 130%;
+  font-weight: bold;
+}
+
+.function1 {
+  background-color: darkslategrey;
+
+  justify-content: flex-end;
+  align-items: start;
+}
+.claassc {
+  background-color: rgb(76, 47, 79);
+  align-items: end;
+  font: bold;
+  align-content: start;
+}
+.font1 {
+  font: bolder;
+}
